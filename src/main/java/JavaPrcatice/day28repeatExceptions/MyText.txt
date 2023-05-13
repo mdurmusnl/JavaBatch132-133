@@ -1,0 +1,6 @@
+Java is OOP
+OOP has four principals
+1 inheritance
+2Polymorphism
+3 Encapsulation
+4 Abstraction
